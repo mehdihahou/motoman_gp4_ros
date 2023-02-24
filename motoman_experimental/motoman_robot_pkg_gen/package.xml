@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>motoman_robot_pkg_gen</name>
+  <version>0.0.0</version>
+  <description>The motoman_robot_pkg_gen package generates robot support packages that conform to the ROS-Industrial package specification.  http://wiki.ros.org/Industrial/Tutorials/SuggestedPackageLayoutNewRepositories</description>
+
+  <maintainer email="shaun.edwards@gmail.com">Shaun Edwards</maintainer>
+  <license>Apache2.0</license>
+  <url type="website">http://wiki.ros.org/motoman_robot_pkg_gen</url> -->
+  <author >Shaun Edwards</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>industrial_robot_pkg_gen</depend>
+
+</package>
